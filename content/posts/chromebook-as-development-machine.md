@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/46068408390/chromebook-as-a-development-machine"]
 +++
 
 Chromebook as a development machine

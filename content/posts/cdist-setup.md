@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/16015091140/cdist-the-setup"]
 +++
 
 cdist - the setup

@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/36524862862/a-better-chef-ansible"]
 +++
 
 A better Chef; Ansible

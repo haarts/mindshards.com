@@ -8,6 +8,9 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = [
+  "/post/152824255579/lxd-as-developer-isolation"
+]
 +++
 
 LXD as developer isolation

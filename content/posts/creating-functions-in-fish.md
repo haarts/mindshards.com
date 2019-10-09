@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/51719448462/writing-functions-in-fish"]
 +++
 
 Creating functions in Fish

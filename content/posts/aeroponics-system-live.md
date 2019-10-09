@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/10980863152/aeroponics-system-live-today-the-rucola-growing"]
 +++
 
 Aeroponics system live

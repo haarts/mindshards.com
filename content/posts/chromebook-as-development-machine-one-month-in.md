@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/49008909173/chromebook-development-machine-1-month-in"]
 +++
 
 Chromebook development machine, 1 month in

@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/55071359024/whitespace-delimited-formats"]
 +++
 
 Whitespace delimited formats

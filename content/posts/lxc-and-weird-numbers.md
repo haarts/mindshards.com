@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/113336568159/lxc-cgroups-and-weird-numbers"]
 +++
 
 LXC, Cgroups and weird numbers

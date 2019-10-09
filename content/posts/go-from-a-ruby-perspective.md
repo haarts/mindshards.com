@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/12211368392/go-from-a-ruby-perspective"]
 +++
 
 Go from a Ruby perspective

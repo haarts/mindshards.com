@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/11058911255/after-two-days-the-seedlings-appear-in-three-out"]
 +++
 
 # Saplings

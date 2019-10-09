@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/100064362354/developer-flow"]
 +++
 
 Developer flow

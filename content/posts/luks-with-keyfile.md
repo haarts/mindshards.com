@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/142290881999/luks-with-key-file-on-kalidebian-jessie"]
 +++
 
 LUKS with key file on Kali/Debian Jessie

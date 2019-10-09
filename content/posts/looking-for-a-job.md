@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/12593532369/im-looking-for-a-job"]
 +++
 
 I\'m looking for a job

@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/150775778274/predicting-house-prices"]
 +++
 
 Predicting house prices

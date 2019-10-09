@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/70815150353/someone-elses-code"]
 +++
 
 Someone else\'s code

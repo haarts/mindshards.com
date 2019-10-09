@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/19396434337/using-rspec-to-monitor-your-apps"]
 +++
 
 Using RSpec to monitor your apps

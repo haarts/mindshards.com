@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/37052126815/here-documents-in-ansible"]
 +++
 
 

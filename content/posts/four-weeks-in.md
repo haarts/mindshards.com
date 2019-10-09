@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/12156961413/four-weeks-in-the-growth-of-the-plants-is"]
 +++
 
 Four weeks in

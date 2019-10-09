@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/37047691571/why-im-returning-my-sonos"]
 +++
 
 

@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/39300576813/go-on-a-raspberry-pi"]
 +++
 
 Go on a Raspberry Pi

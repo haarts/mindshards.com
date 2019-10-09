@@ -8,6 +8,7 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+aliases = ["/post/70816217313/php-is-awesome-sometimes"]
 +++
 
 PHP is awesome, sometimes
