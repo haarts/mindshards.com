@@ -14,4 +14,5 @@ aliases = ["/post/12281955075/some-root-mass-is-developing-this-is-almost-5"]
 # Root mass
 
 Some root mass is developing. This is almost 5 weeks in.
-                                                                                          
+
+![root mass](/root-mass.jpg)

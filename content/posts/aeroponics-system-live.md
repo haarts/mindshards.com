@@ -11,6 +11,8 @@ series = []
 aliases = ["/post/10980863152/aeroponics-system-live-today-the-rucola-growing"]
 +++
 
+![aeroponics system](/aeroponics_system.jpg)
+
 Aeroponics system live
 ----------------------
 
