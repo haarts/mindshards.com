@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2013-12-22T21:11:00+00:00
-title = "Someone else\'s code"
+title = "Someone else's code"
 description = ""
 slug = "" 
 tags = []
