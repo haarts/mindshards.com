@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2012-03-16T15:01:00+00:00
-title = ""
+title = "Use RSpec to monitor your app"
 description = ""
 slug = "" 
 tags = []
