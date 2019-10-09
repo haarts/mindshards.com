@@ -23,7 +23,7 @@ disqusShortname = "haarts"
     avatarurl = "images/avatar.jpg"
     footercontent = ""
 
-    dateformat = "January 2, 2006"
+    dateformat = "2 January 2006"
 
     hideCredits = false
     hideCopyright = false
