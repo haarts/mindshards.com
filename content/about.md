@@ -3,12 +3,13 @@ title = "About me"
 slug = "about"
 +++
 
-I'm an enthusiastic coder and builder in general. You can hire me as a freelancer.
+I'm an enthusiastic coder and builder in general.
 
 I have a keen interest in crypto-currencies, artificial intelligence and open source software.
 
-## Rates
+## Current
 
-I have two rates: 90 EUR per hour for open source software, and 120 EUR per hour for anything else. Discounts apply for AI/crypto projects. 
+At the moment I'm a co-founder of [21 Analytics](https://21analytics.ch "Crypto asset compliance company"). With it we build compliance software for virtual asset service providers or VASPs for short.
+
 
 Feel free to drop me a [line](../contact/).
